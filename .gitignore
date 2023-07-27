@@ -1,0 +1,37 @@
+# Node modules
+/node_modules
+
+# Distribution directory
+/dist
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor directories and files
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw*
+
+# Capacitor build files
+ios/App/public/
+ios/App/App/App.xcworkspace
+ios/App/App.xcworkspace.xcuserdata/
+ios/App/App.xcworkspace/xcuserdata/
+ios/App/App.xcworkspace/xcshareddata/
+
+# MacOS files
+.DS_Store
+
+# IDE - VSCode
+.vscode/
+
+# Package Lock file
+package-lock.json
+
+# Vite cache
+node_modules/.vite
