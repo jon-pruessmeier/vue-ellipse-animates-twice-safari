@@ -30,8 +30,5 @@ ios/App/App.xcworkspace/xcshareddata/
 # IDE - VSCode
 .vscode/
 
-# Package Lock file
-package-lock.json
-
 # Vite cache
 node_modules/.vite
